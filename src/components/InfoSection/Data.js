@@ -1,4 +1,4 @@
-import Teach1 from '../../assets/images/teach1.jpg';
+import Teach1 from '../../assets/images/golf.svg';
 
 export const homeObjOne = {
   id: 'about',
@@ -19,7 +19,7 @@ export const homeObjOne = {
 };
 
 export const homeObjTwo = {
-  id: 'lessons',
+  id: 'booking',
   lightBg: true,
   lightText: false,
   lightTextDesc: false,
@@ -37,7 +37,7 @@ export const homeObjTwo = {
 };
 
 export const homeObjThree = {
-  id: 'about',
+  id: 'contact',
   lightBg: false,
   lightText: true,
   lightTextDesc: true,
